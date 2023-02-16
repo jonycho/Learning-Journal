@@ -11,7 +11,7 @@ https://learning-journal-html-css-js.netlify.app/
 
 ## Screenshots 🖼️
 
-
+![App Screenshot](https://i.postimg.cc/x1SF30mt/screen-My-Learning-Journal.png)
 
 ![App Screenshot 2](https://i.postimg.cc/s2j6bwwW/screen-My-Learning-Journal2.png)
 
